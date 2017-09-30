@@ -6,16 +6,17 @@ Esse é um projeto , com o intuito de ajudar na criação de provas. Com ele o p
 
 Execute: 
 
-`npm i` ou `npm install`
-`ng serve` ou `ng serve --open`
+`npm i` ou `npm install` ==> Instala as Dependencias do projeto
+
+`ng serve` ou `ng serve --open` ==> Sobe o projeto
 
 `http://localhost:4200/` ==> Endereço no Browser
 
 ## Desenvolvedores
 
-[Antonio Rafael](https://github.com/antoniorafaelcl).
-[William Balbino](https://github.com/williambalbino).
-[Anderson Henry](https://github.com/andersonhenrypicui).
+* [Antonio Rafael](https://github.com/antoniorafaelcl)
+* [William Balbino](https://github.com/williambalbino)
+* [Anderson Henry](https://github.com/andersonhenrypicui)
 
 
 
